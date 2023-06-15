@@ -1,0 +1,6 @@
+[submodule "connect-react"]
+	path = connect-react
+	url = https://github.com/nithinrdy/connect-react
+[submodule "connect-express"]
+	path = connect-express
+	url = https://github.com/nithinrdy/connect-express
