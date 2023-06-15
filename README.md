@@ -5,3 +5,5 @@ Uses free STUN servers for setting up connections.
 Built using ReactJS, Framer Motion, TailwindCSS, ExpressJS, Supabase, Socket.IO/Socket.IO-client & WebRTC. Written in TypeScript.
 
 Deployed to an Azure B1s Linux instance -- https://4.213.88.24.nip.io/
+
+Please visit the repos themselves for more details.
